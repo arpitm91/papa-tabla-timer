@@ -1,8 +1,8 @@
 {
-  "name": "hello-world-example",
-  "version": "0.1.0",
+  "name": "papa-tabla-timer",
+  "version": "0.1.1",
   "private": true,
-  "homepage": "https://arpitm91.github.io/papa-tabla-timer",
+  "homepage": "http://arpitm91.github.io/papa-tabla-timer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",

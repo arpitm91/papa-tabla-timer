@@ -1,0 +1,15 @@
+
+.text { 
+  height: 100%;
+  float: left;
+  text-align: center;
+  font-size: 50px;
+  /* visibility:hidden; */
+  color: #464b55;
+}
+
+.show {
+  /* visibility:visible; */
+  color: #d7d3cb;
+  background-color: #464b55;
+}

@@ -1,0 +1,14 @@
+.btn {
+  width: 15vw;
+  height: 15vh;
+  padding:5px;
+  margin:5px;
+  background-color: #464b55;
+  color: #d7d3cb;
+  border: 0px solid #d7d3cb;
+  font-size: 20px;
+}
+  
+.sel {
+  border: 3px solid #d7d3cb;
+}
